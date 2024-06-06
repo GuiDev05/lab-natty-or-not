@@ -1,43 +1,20 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast Sobre I.As Generativas 🤖
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+No meu projeto, utilizei duas ferramentas: o ChatGPT, para a criação do roteiro, e o ElevenLabs, para transformar esse roteiro, em um podcast de verdade, com o uso de IAs Generativas de voz.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+ChatGPT/
+Eleven Labs 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro, pedi para o ChatGPT criar um roteiro de podcast sobre I.As Generativas. O roteiro deveria ser produzido, tendo-se em mente que o podcast teria duração de aproximadamente 5 minutos. Além disso, pedi para que ele utilizasse um linguagem simples e voltada para jovens e pessoas da area de tecnologia. Depois, filtrei o roteiro produzido pelo GPT, e coloquei no ElevenLabs para ele transformar o texto em voz, dando vida ao podcast!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado, tive um ótimo podcast de um pouco menos de 5 minutos, que explica de forma direta e simples, como as Inteligências Artificiais Generativas funcionam.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-## 📒 Descrição
-Breve descrição do seu projeto
+## 💭 Reflexão
+Adorei o desafio, e gostei de ver o prompt inicial que eu passei para o ChatGPT, se transformar em um audio de 5 minutos ao final de tudo. Com certeza foi uma ótima experiência! 
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
